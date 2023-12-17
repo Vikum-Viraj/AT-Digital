@@ -1,0 +1,15 @@
+.custom-navbar-bg {
+    background-color: #6F3CE8;
+}
+
+.custom {
+    margin: 0 auto;
+    margin-left: 30px;
+}
+
+.service{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 90px;
+    gap: 10px;
+}

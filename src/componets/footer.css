@@ -1,0 +1,44 @@
+.Footer {
+    background-color: #6F3CE8;
+    max-height: 100%;
+    padding: 2rem 0;
+    color: aliceblue;
+}
+
+.para {
+    margin-top: 1.5rem;
+}
+
+.ft-1 h3 {
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.ft-2 ul {
+    list-style: none;
+}
+
+.ft-2 p {
+ 
+    margin-bottom: 0.5rem;
+}
+.ft-3 ul li p {
+    
+    margin-bottom: 0.5rem;
+}
+
+hr{
+    border-width: 5px;
+    background-color:aliceblue;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    
+}
+
+.privacy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+

@@ -1,0 +1,36 @@
+.img {
+    width: 100%;
+    max-height: 35rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    object-fit: cover;
+}
+
+.heor-image{
+
+}
+
+.img-section {
+    position: relative;
+    bottom: 22rem;
+    margin-left: 3rem;
+    background-color: black;
+    color: white;
+    width: 50%;
+    color: aliceblue;
+    padding: 1.5rem 5rem 1.5rem 5rem;
+    background: rgb(0, 36, 28);
+    background: linear-gradient(90deg, rgba(0, 36, 28, 1) 0%, rgba(9, 121, 46, 1) 0%, rgba(0, 255, 233, 1) 100%);
+
+    .hero-btn {
+        padding: 0.5rem 1rem;
+        font-weight: 600;
+        border: none;
+        background-color: #F28D35;
+        color: aliceblue;
+        border-radius: 3px;
+    }
+}
