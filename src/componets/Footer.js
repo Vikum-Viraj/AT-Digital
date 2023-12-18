@@ -49,7 +49,7 @@ const Footer = () => {
 
         </div>
       </div>
-      <hr/>
+      <hr />
        <div className='privacy'>
         <p>Privacy Policy</p>
         <p>|</p>

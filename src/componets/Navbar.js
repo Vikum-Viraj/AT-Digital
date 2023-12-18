@@ -12,7 +12,7 @@ const Navbar = () => {
         </div>
         
         <div className="collapse navbar-collapse" id="navbarNav">
-
+          
           <ul className="navbar-nav" style={{marginRight:'20px'}}>
 
             <li className="nav-item">
@@ -30,6 +30,7 @@ const Navbar = () => {
           </ul>
 
         </div>
+        
       </div>
     </nav>
   )
